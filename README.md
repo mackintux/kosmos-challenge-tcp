@@ -1,7 +1,7 @@
 # Servidor y Cliente TCP en Python
 
 ## Descripción
-Este proyecto implementa un servidor y un cliente TCP en Python. El servidor escucha en `localhost` en el puerto `5000` y responde a los mensajes en mayúsculas. Si recibe el mensaje "DESCONEXION", cierra la conexión con el cliente.
+Este proyecto implementa un servidor y un cliente TCP en Python. El servidor escucha en `localhost` en el puerto `5000` (cambiado por conflictos de puerto a `5001`) y responde a los mensajes en mayúsculas. Si recibe el mensaje "DESCONEXION", cierra la conexión con el cliente.
 
 ## Ejecución
 
